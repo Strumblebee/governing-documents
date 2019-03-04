@@ -1,0 +1,4 @@
+*.html
+*.pdf
+*.docx
+!.pandoc-build/word_referencedoc.docx
