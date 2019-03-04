@@ -19,7 +19,7 @@ RM=/bin/rm
 ifeq ($(OS),Windows_NT)
     PANDOC=/cygdrive/c/Program\ Files/Pandoc/pandoc.exe
 else
-    PANDOC=/usr/local/bin/pandoc
+    PANDOC=pandoc
 endif
 
 # Included date as command-line option workaround as per https://github.com/jgm/pandoc/issues/2865#issuecomment-257105573
