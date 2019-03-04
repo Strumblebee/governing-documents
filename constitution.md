@@ -140,6 +140,11 @@
         as "contributors", meaning they will be serve
         representative purposes.
 
+-   Section 6: Emergency Elections
+
+    -   New executive officers shall be elected by majority vote by 
+        the members of the existing executive committee.
+
 # ARTICLE VI: Meetings
 
 -   Section 1: This group shall have mandatory monthly meetings.
