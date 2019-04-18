@@ -225,15 +225,15 @@
     -   Keeps the website consistently up to date with the group by
         working with the social media director.
 
--   Section 7: Social media director
+-   Section 7: Social Media Director
 
     -   Controls all forms of the group social media representation.
-        Works as needed with the Historian, Web Designer.
+        Works as needed with the Web Designer.
 
     -   Works to extend YSU Game Dev's brand, in both the extent of
         general student body and every audience imaginative, and
         advertise completed games to the public. Works with the
-        Social Media Director and Web Designer to do this.
+        Web Designer to do this.
         
     -   Records the activities and projects by the group for an
         intimate record of the group. Works with the Web Designer
