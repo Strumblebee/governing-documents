@@ -151,9 +151,9 @@
 -   Section 2: This does not apply for smaller meetings done by
     development teams.
 
-# ARTICLE VII: Amendments to Constitution and By-laws
+# ARTICLE VII: Amendments to Constitution
 
--   Section 1: Amendments to the constitution and by-laws shall be
+-   Section 1: Amendments to the constitution shall be
     submitted as a GitHub pull request one week prior to their
     consideration by the president.
 
