@@ -84,11 +84,10 @@
 
 -   Section 3: Non-Executive Officers. The non-executive officers
     shall include the Youngstown Penguin Hackers (Y.P.H.) Liaison,
-    Website Designer, Social Media Director and Historian. All
+    Website Designer, and Social Media Director. All
     officers will serve an academic year.
 
--   Section 4: The Website Designer, Social Media Director, and
-    Historian Officers will comprise the Public Outreach
+-   Section 4: The Website Designer and Social Media Director Officers will comprise the Public Outreach
     Committee.
 
 -   Section 5: Requirements for Officer Position
@@ -152,9 +151,9 @@
 -   Section 2: This does not apply for smaller meetings done by
     development teams.
 
-# ARTICLE VII: Amendments to Constitution and By-laws
+# ARTICLE VII: Amendments to Constitution
 
--   Section 1: Amendments to the constitution and by-laws shall be
+-   Section 1: Amendments to the constitution shall be
     submitted as a GitHub pull request one week prior to their
     consideration by the president.
 
@@ -202,7 +201,7 @@
     -   Familiar with all University regulations for student
         organizations.
 
-    -   Collaborates with Historian for bookkeeping.
+    -   Collaborates with Social Media Director for bookkeeping.
 
 -   Section 4: Treasurer
 
@@ -224,22 +223,21 @@
 -   Section 6: Web Designer
 
     -   Keeps the website consistently up to date with the group by
-        working with the historian, social media director.
+        working with the social media director.
 
--   Section 7: Social media director
+-   Section 7: Social Media Director
 
     -   Controls all forms of the group social media representation.
-        Works as needed with the Historian, Web Designer.
+        Works as needed with the Web Designer.
 
     -   Works to extend YSU Game Dev's brand, in both the extent of
         general student body and every audience imaginative, and
         advertise completed games to the public. Works with the
-        Social Media Director and Web Designer to do this.
-
--   Section 8: Historian
-
+        Web Designer to do this.
+        
     -   Records the activities and projects by the group for an
         intimate record of the group. Works with the Web Designer
         to maintain relevant content on the website.
+        
+    -   Social Media Director collaborates with Secretary for bookkeeping.
 
-    -   Historian collaborates with Secretary for bookkeeping.
