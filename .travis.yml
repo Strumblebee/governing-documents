@@ -12,3 +12,4 @@ deploy:
     - constitution.docx
   on:
     repo: ysu-game-devs/governing-documents
+    all_branches: true
