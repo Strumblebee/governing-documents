@@ -1,6 +1,13 @@
 language: r
 pandoc_version: 2.7
-
 install: true
-
 script: make
+deploy:
+  provider: releases
+  api_key:
+    secure: ULOpl5Uf0G0y8O5j3lWv5asL6S/v2arXvbgvO3Bx8ekQDcBN/+5g6wTgAc58JkI9ps/xoMfUGfDq+c1s/EBhHi2L77mBBnslJN3+Ty1SYMT6X2kmXAnYonl6fcef5qwoMM1MTywozrLK2nLhjJb7mxxeR+xlRX/twJSa/X5E6CiRHq8KY45IL8lzlf9rQkXngPXnSPIypMoxD9uZGWN2wBi1edBFSPmFEHWEzHmyUeJMLVAf9zeapmHhTgHvW/MNlyia8JJ1QffGSyiiUapkdeDkp8sUzHTqKU/j9dvmlFT0tiZZROu0TPvie1THRm1NfaJh+ox6HYQZxWR4BOZrXjlbfmz6pvVSoQY6LI17Y34jZcM0I5BbEyN3xYgYWFynqJE3FE/kLfEt7/0U7O5RgKsbgIZPgBySTzlAyxhYXMB6VROYJOHvDyo6EVVfJ+KyVrypY/ugaBuScQkU4Jibga7thL2ElEy6+gwbeMvjs8dCwmn8JdF5MJL8rfmONV4UyyYF33XM50KmR/JrRmhmin6kG3aj5BhdEL7k8UtVjh7xj7iAR+ie4YfNvyhhX88q5Y1ik7TMG25ZMu4S9SYciOFUrVY9PGliX/MJIybus/6KWwgTrzk06sWDYF5tX4oJv4oppVl7clP0NjRd7NJMyH9UYfovUzggNdUZk8OwVHY=
+  file: 
+    - constitution.pdf
+    - constitution.docx
+  on:
+    repo: ysu-game-devs/governing-documents
