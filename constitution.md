@@ -44,7 +44,28 @@
         color, gender, age, religion, national origin, veteran,
         handicap status, or sexual orientation.
 
-# ARTICLE IV: Situational Procedures
+# ARTICLE IV: Organization Structure
+
+-   Section 1: Executive Council
+
+    -   The Executive Council will consist of a President, Vice President, Secretary, and Treasurer. [////****** SHOULD WE ADD DEPT HEADS TO EXEC? *********////////]
+    
+    -   The Executive Council will have the following responsibilities:
+    
+        -   Seeing to the overall functioning of the YSU Game Devs, and ensures its activities are in accord to the group purposes.
+        
+        -   Ensuring all members are treated fairly, and creating an inclusive learning environment.
+        
+        -   Overseeing non-Executive officers fulfilling their duties.
+    
+-   Section 2: Departments of Programming, Music, Art and Storyboarding
+
+    -   There will be four departments dividing game development production into four areas: programming, music, art, and storyboarding.         Each department will have the same structure, will operate independently cooperating as needed.
+    
+    -   Departmental Council
+    
+        -   Each department will have a council of four members mirroring the Executive Council operating in the scope of the               Department. The departmental council will consist of the Departmental Head, the Assistant Departmental Head, the Departmental Secretary, and the Departmental Treasurer.
+# ARTICLE V: Situational Procedures
 
 -   Section 1: Procedure for disciplining and/or removing a member
 
@@ -73,7 +94,7 @@
         decided by a group vote administered by the faculty
         advisor, requiring a two-thirds ($2/3$) majority to pass.
 
-# ARTICLE V: Officers and Election
+# ARTICLE VI: Officers and Election
 
 -   Section 1: Executive Officers. The officers of this group shall
     include the President, Vice-President, Secretary, and
@@ -144,14 +165,14 @@
     -   New executive officers shall be elected by majority vote by 
         the members of the existing executive committee.
 
-# ARTICLE VI: Meetings
+# ARTICLE VII: Meetings
 
 -   Section 1: This group shall have mandatory monthly meetings.
 
 -   Section 2: This does not apply for smaller meetings done by
     development teams.
 
-# ARTICLE VII: Amendments to Constitution
+# ARTICLE VIII: Amendments to Constitution
 
 -   Section 1: Amendments to the constitution shall be
     submitted as a GitHub pull request one week prior to their
@@ -167,7 +188,7 @@
 -   Section 4: After voting, changes will be made the the pull
     request as needed.
 
-# ARTICLE VIII: Officer Duties and Responsibilities
+# ARTICLE IX: Officer Duties and Responsibilities
 
 -   Section 1: President
 
