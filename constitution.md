@@ -64,18 +64,16 @@
     
     -   Departmental Council
     
-        -   Each department will have a council of four members mirroring the Executive Council operating in the 
-        scope of the Department. The departmental council will consist of the Departmental Head, the Assistant Departmental Head, 
-        the Departmental Secretary, and the Departmental Treasurer.
+        -   Each department will have a council of four members mirroring the Executive Council operating in the scope of the Department. The departmental council will consist of the Departmental Head, the Assistant Departmental Head, the Departmental Secretary, and the Departmental Treasurer.
         
 -   Section 3: A Public Outreach committee will consist of a Social Media Director, a Website Designer, 
 and a Youngstown Penguin Hackers (YPH) Representative.
     
-        -   The Public Outreach committee will be responsible for any marketing and 
+    -   The Public Outreach committee will be responsible for any marketing and 
         maintaining the public profile of the YSU Game Devs through the use of social media, 
         the organization website, and any engagement with the greater YSU community.
-        
-        -   The committee will report to secretary, and may add members and remove additional 
+    
+    -   The committee will report to secretary, and may add members and remove additional 
         member to the committee's discretion.
    
 
