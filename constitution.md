@@ -64,93 +64,61 @@
     
     -   Departmental Council
     
-        -   Each department will have a council of four members mirroring the Executive Council operating in the scope of the               Department. The departmental council will consist of the Departmental Head, the Assistant Departmental Head, the Departmental Secretary, and the Departmental Treasurer.
-# ARTICLE V: Situational Procedures
+        -   Each department will have a council of four members mirroring the Executive Council operating in the 
+        scope of the Department. The departmental council will consist of the Departmental Head, the Assistant Departmental Head, 
+        the Departmental Secretary, and the Departmental Treasurer.
+        
+-   Section 3: A Public Outreach committee will consist of a Social Media Director, a Website Designer, 
+and a Youngstown Penguin Hackers (YPH) Representative.
+    
+        -   The Public Outreach committee will be responsible for any marketing and 
+        maintaining the public profile of the YSU Game Devs through the use of social media, 
+        the organization website, and any engagement with the greater YSU community.
+        
+        -   The committee will report to secretary, and may add members and remove additional 
+        member to the committee's discretion.
+   
 
--   Section 1: Procedure for disciplining and/or removing a member
+# ARTICLE V: Requirements for Officer Positions
 
-    -   Any form of hate or inappropriate behavior is a reason for
-        removal
 
-        -   In extension: Adhere to Y.S.U. Student Code of Conduct.
+-   Section 1: President
 
--   Section 2: Removal of an Officer
+    -   Candidates should have been an active member of the Y.S.U. Game Devs for a period of at least two (2) semesters.
+    
+    -   Candidates should have held an executive or non-executive officer position within Y.S.U. Game Devs prior to 
+    running for president.
 
-    -   If a member of YSU Game Devs wishes to have an officer
-        removed, they should set up a meeting with the faculty
-        advisor with details concerning the request, and be
-        prepared to discuss if the action is justified.
+-   Section 2: Vice-President
 
-    -   After approval by the advisor, the member wishes to pursue a
-        removal of an officer, then they must notify all members
-        via the main communication medium (Discord). This is done
-        before the next mandatory meeting to ensure each member
-        can be informed about their vote.
+    -   Candidates should have been an active member of the
+    Y.S.U. Game Devs for a period of at least two (2)
+    semesters.
 
-    -   At the meeting, the prosecuting member will have a chance to
-        explain to the group why they want the officer removed. In
-        addition, the defending officer will have the chance to
-        defend or explain their position. The removal will be
-        decided by a group vote administered by the faculty
-        advisor, requiring a two-thirds ($2/3$) majority to pass.
+    -   Candidates should have held an executive or
+    non-executive officer position within Y.S.U. Game Devs
+    prior to running for president.
 
-# ARTICLE VI: Officers and Election
+-   Section 3: Secretary
 
--   Section 1: Executive Officers. The officers of this group shall
-    include the President, Vice-President, Secretary, and
-    Treasurer All officers will serve an academic year.
+    -   Candidates should have been an active member of the
+    Y.S.U. Game Devs for a period of at least one (1)
+    semester.
 
--   Section 2: The above officers will comprise the executive
-    committee.
+-   Section 4: Treasurer
 
--   Section 3: Non-Executive Officers. The non-executive officers
-    shall include the Youngstown Penguin Hackers (Y.P.H.) Liaison,
-    Website Designer, and Social Media Director. All
-    officers will serve an academic year.
+    -   Candidates should have been an active member of the
+    Y.S.U. Game Devs for a period of at least one (1)
+    semester.
 
--   Section 4: The Website Designer and Social Media Director Officers will comprise the Public Outreach
-    Committee.
+-   Section 5: Y.P.H. Liaison
 
--   Section 5: Requirements for Officer Position
+    -   Candidates should be a part of Youngstown Penguin
+    Hackers.
 
-    -   Subsection A: President
 
-        -   Candidates should have been an active member of the
-            Y.S.U. Game Devs for a period of at least two (2)
-            semesters.
-
-        -   Candidates should have held an executive or
-            non-executive officer position within Y.S.U. Game Devs
-            prior to running for president.
-
-    -   Subsection B: Vice-President
-
-        -   Candidates should have been an active member of the
-            Y.S.U. Game Devs for a period of at least two (2)
-            semesters.
-
-        -   Candidates should have held an executive or
-            non-executive officer position within Y.S.U. Game Devs
-            prior to running for president.
-
-    -   Subsection C: Secretary
-
-        -   Candidates should have been an active member of the
-            Y.S.U. Game Devs for a period of at least one (1)
-            semester.
-
-    -   Subsection D: Treasurer
-
-        -   Candidates should have been an active member of the
-            Y.S.U. Game Devs for a period of at least one (1)
-            semester.
-
-    -   Subsection E: Y.P.H. Liaison
-
-        -   Candidates should be a part of Youngstown Penguin
-            Hackers.
-
--   Section 5: The officers of this organization shall be elected by
+# Article VI: Elections
+-   Section 1: The officers of this organization shall be elected by
     the active members of the club.
 
     -   Subsection A: The executive officers shall be elected at the
@@ -160,10 +128,11 @@
         as "contributors", meaning they will be serve
         representative purposes.
 
--   Section 6: Emergency Elections
+-   Section 2: Emergency Elections
 
     -   New executive officers shall be elected by majority vote by 
         the members of the existing executive committee.
+
 
 # ARTICLE VII: Meetings
 
@@ -171,6 +140,7 @@
 
 -   Section 2: This does not apply for smaller meetings done by
     development teams.
+
 
 # ARTICLE VIII: Amendments to Constitution
 
@@ -187,6 +157,7 @@
 
 -   Section 4: After voting, changes will be made the the pull
     request as needed.
+
 
 # ARTICLE IX: Officer Duties and Responsibilities
 
@@ -235,18 +206,34 @@
 
     -   Communicates efficiently with Y.S.U Student Government
         Association to secure additional funding
+        
+-   Section 5: Departmental Head
 
--   Section 5: Y.P.H. Liaison
+    -   Act as a leader of the department.
+    
+    -   Delegate assignments to department members.
+    
+    -   Ensuring their department stays productive and makes progress in a timely manner.
+    
+    -   Verbally report on progress, issues, and concerns to the executive board.
+    
+    -   Plan and execute necessary meetings within the department.
+
+-   Section 6: Y.P.H. Liaison
 
     -   Coordinates cooperation between Youngstown Penguin Hackers
-        and Y.S.U. Game Devs.
+        and Y.S.U. Game Devs. 
+        
+    -   Part of the Public Outreach Committee.
 
--   Section 6: Web Designer
+-   Section 7: Web Designer
 
     -   Keeps the website consistently up to date with the group by
         working with the social media director.
+        
+    -   Part of the Public Outreach Committee.
 
--   Section 7: Social Media Director
+-   Section 8: Social Media Director
 
     -   Controls all forms of the group social media representation.
         Works as needed with the Web Designer.
@@ -261,4 +248,35 @@
         to maintain relevant content on the website.
         
     -   Social Media Director collaborates with Secretary for bookkeeping.
+    
+    -   Part of the Public Outreach Committee.
 
+
+# ARTICLE X: Situational Procedures
+
+-   Section 1: Procedure for disciplining and/or removing a member
+
+    -   Any form of hate or inappropriate behavior is a reason for
+        removal
+
+        -   In extension: Adhere to Y.S.U. Student Code of Conduct.
+
+-   Section 2: Removal of an Officer
+
+    -   If a member of YSU Game Devs wishes to have an officer
+        removed, they should set up a meeting with the faculty
+        advisor with details concerning the request, and be
+        prepared to discuss if the action is justified.
+
+    -   After approval by the advisor, the member wishes to pursue a
+        removal of an officer, then they must notify all members
+        via the main communication medium (Discord). This is done
+        before the next mandatory meeting to ensure each member
+        can be informed about their vote.
+
+    -   At the meeting, the prosecuting member will have a chance to
+        explain to the group why they want the officer removed. In
+        addition, the defending officer will have the chance to
+        defend or explain their position. The removal will be
+        decided by a group vote administered by the faculty
+        advisor, requiring a two-thirds ($2/3$) majority to pass.
