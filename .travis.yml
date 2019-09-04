@@ -2,6 +2,7 @@ language: r
 pandoc_version: 2.7
 install: true
 script: make
+before_deploy: "export RELEASE_NAME=`date +%Y%m%d`-$TRAVIS_BUILD_NUMBER"
 deploy:
   skip-cleanup: true
   provider: releases
@@ -13,3 +14,4 @@ deploy:
   on:
     repo: ysu-game-devs/governing-documents
     all_branches: true
+  name: $RELEASE_NAME
