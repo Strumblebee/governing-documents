@@ -14,7 +14,7 @@ LaTeX, a typesetting language that produces consistent output across platforms
 and allows for the structure of the document to be controlled 
 programmatically.
 
-### Linux
+### Linux Computer 
 
 Ensure that both Pandoc and a LaTeX distribution (such as TeX-Live) are 
 installed through your distribution's package manager. At the terminal, 
@@ -33,7 +33,7 @@ $ make constitution.docx
 
 and the file you specified will be generated. To clear all of the generated files, run ```make clean```. This is useful for keeping the directory organized and allows for files to be rebuilt after making changes to configuration files without changing the Markdown (generally during development only).
 
-### Windows
+### Windows Desktop
 
 You will need [Pandoc](https://pandoc.org/) to convert Markdown into other formats and a LaTeX distribution of some kind (we recommend [MiKTeX](https://miktex.org/)) to compile LaTeX documents to PDF. If you only need DOCX files, you can skip the installation of LaTeX.
 

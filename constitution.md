@@ -48,7 +48,7 @@
 
 -   Section 1: Executive Council
 
-    -   The Executive Council will consist of a President, Vice President, Secretary, and Treasurer. [////****** SHOULD WE ADD DEPT HEADS TO EXEC? *********////////]
+    -   The Executive Council will consist of a President, Vice President, Secretary, Treasurer, and a Department Head for four different departments defined below.
     
     -   The Executive Council will have the following responsibilities:
     
@@ -62,9 +62,6 @@
 
     -   There will be four departments dividing game development production into four areas: programming, music, art, and storyboarding.         Each department will have the same structure, will operate independently cooperating as needed.
     
-    -   Departmental Council
-    
-        -   Each department will have a council of four members mirroring the Executive Council operating in the scope of the Department. The departmental council will consist of the Departmental Head, the Assistant Departmental Head, the Departmental Secretary, and the Departmental Treasurer.
         
 -   Section 3: A Public Outreach committee will consist of a Social Media Director, a Website Designer, 
 and a Youngstown Penguin Hackers (YPH) Representative.
